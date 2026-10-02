@@ -1,0 +1,6 @@
+{
+  "name": "Casio fx-Android Graphing Scientific Calculator",
+  "description": "Advanced Casio ClassWiz style scientific & graphing calculator designed for Android phone experience, featuring natural textbook display, multi-function graphing, G-Solve, calculus, statistics, and equation solvers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
